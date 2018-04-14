@@ -1,0 +1,1852 @@
+[
+  {
+    "id": 10,
+    "departmentName": "采购部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 1533,
+    "ecologyPinyinSearch": "cgb",
+    "status": "1",
+    "oldId": 11
+  },
+  {
+    "id": 11,
+    "departmentName": "国内仓",
+    "parentId": 484,
+    "tlevel": 3,
+    "masterId": 1698,
+    "ecologyPinyinSearch": "gnc",
+    "status": "1",
+    "oldId": 295
+  },
+  {
+    "id": 12,
+    "departmentName": "第1事业部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 127,
+    "ecologyPinyinSearch": "d1syb",
+    "status": "1",
+    "oldId": 128
+  },
+  {
+    "id": 22,
+    "departmentName": "第2事业部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 210,
+    "ecologyPinyinSearch": "d2syb",
+    "status": "1",
+    "oldId": 134
+  },
+  {
+    "id": 31,
+    "departmentName": "第3事业部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 276,
+    "ecologyPinyinSearch": "d3syb",
+    "status": "1",
+    "oldId": 136
+  },
+  {
+    "id": 34,
+    "departmentName": "第4事业部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 320,
+    "ecologyPinyinSearch": "d4syb",
+    "status": "1",
+    "oldId": 138
+  },
+  {
+    "id": 36,
+    "departmentName": "第5事业部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 344,
+    "ecologyPinyinSearch": "d5syb",
+    "status": "1",
+    "oldId": 140
+  },
+  {
+    "id": 37,
+    "departmentName": "越南团队",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 350,
+    "ecologyPinyinSearch": "yntd",
+    "status": "1",
+    "oldId": 142
+  },
+  {
+    "id": 40,
+    "departmentName": "营销1部",
+    "parentId": 12,
+    "tlevel": 3,
+    "masterId": 143,
+    "ecologyPinyinSearch": "yx1b",
+    "status": "1",
+    "oldId": 190
+  },
+  {
+    "id": 41,
+    "departmentName": "1部1营1组(苏轼依)",
+    "parentId": 40,
+    "tlevel": 4,
+    "masterId": 143,
+    "ecologyPinyinSearch": "1b1y1z(ssy)",
+    "status": "1",
+    "oldId": 1
+  },
+  {
+    "id": 42,
+    "departmentName": "营销2部",
+    "parentId": 22,
+    "tlevel": 3,
+    "masterId": 219,
+    "ecologyPinyinSearch": "yx2b",
+    "status": "1",
+    "oldId": 194
+  },
+  {
+    "id": 43,
+    "departmentName": "2部2营2组(何依瑾)",
+    "parentId": 42,
+    "tlevel": 4,
+    "masterId": 257,
+    "ecologyPinyinSearch": "2b2y2z(hyj)",
+    "status": "1",
+    "oldId": 40
+  },
+  {
+    "id": 44,
+    "departmentName": "营销1部",
+    "parentId": 31,
+    "tlevel": 3,
+    "masterId": 278,
+    "ecologyPinyinSearch": "yx1b",
+    "status": "1",
+    "oldId": 198
+  },
+  {
+    "id": 45,
+    "departmentName": "3部1营1组(刘鑫)",
+    "parentId": 44,
+    "tlevel": 4,
+    "masterId": 280,
+    "ecologyPinyinSearch": "3b1y1z(lx)",
+    "status": "1",
+    "oldId": 3
+  },
+  {
+    "id": 46,
+    "departmentName": "人事部",
+    "parentId": 3,
+    "tlevel": 3,
+    "masterId": 6,
+    "ecologyPinyinSearch": "rsb",
+    "status": "1",
+    "oldId": 168
+  },
+  {
+    "id": 47,
+    "departmentName": "行政部",
+    "parentId": 3,
+    "tlevel": 3,
+    "masterId": 1379,
+    "ecologyPinyinSearch": "xzb",
+    "status": "1",
+    "oldId": 170
+  },
+  {
+    "id": 48,
+    "departmentName": "设计部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 276,
+    "ecologyPinyinSearch": "sjb",
+    "status": "1",
+    "oldId": 144
+  },
+  {
+    "id": 50,
+    "departmentName": "1部1营2组(何静)",
+    "parentId": 40,
+    "tlevel": 4,
+    "masterId": 178,
+    "ecologyPinyinSearch": "1b1y2z(hj)",
+    "status": "1",
+    "oldId": 23
+  },
+  {
+    "id": 51,
+    "departmentName": "1部1营3组(杨凤国)",
+    "parentId": 40,
+    "tlevel": 4,
+    "masterId": 147,
+    "ecologyPinyinSearch": "1b1y3z(yfg)",
+    "status": "1",
+    "oldId": 64
+  },
+  {
+    "id": 52,
+    "departmentName": "1部1营4组(杨雪)",
+    "parentId": 40,
+    "tlevel": 4,
+    "masterId": 145,
+    "ecologyPinyinSearch": "1b1y4z(yx)",
+    "status": "1",
+    "oldId": 4
+  },
+  {
+    "id": 53,
+    "departmentName": "1部1营5组(蒋泥泠)",
+    "parentId": 40,
+    "tlevel": 4,
+    "masterId": 199,
+    "ecologyPinyinSearch": "1b1y5z(jnl)",
+    "status": "1",
+    "oldId": 36
+  },
+  {
+    "id": 55,
+    "departmentName": "营销2部",
+    "parentId": 12,
+    "tlevel": 3,
+    "masterId": 152,
+    "ecologyPinyinSearch": "yx2b",
+    "status": "1",
+    "oldId": 192
+  },
+  {
+    "id": 56,
+    "departmentName": "1部2营1组(万繁平)",
+    "parentId": 55,
+    "tlevel": 4,
+    "masterId": 154,
+    "ecologyPinyinSearch": "1b2y1z(wfp)",
+    "status": "1",
+    "oldId": 7
+  },
+  {
+    "id": 57,
+    "departmentName": "1部2营2组(赵梓旭)",
+    "parentId": 55,
+    "tlevel": 4,
+    "masterId": 163,
+    "ecologyPinyinSearch": "1b2y2z(zzx)",
+    "status": "1",
+    "oldId": 14
+  },
+  {
+    "id": 58,
+    "departmentName": "1部2营3组(曾弋航)",
+    "parentId": 55,
+    "tlevel": 4,
+    "masterId": 189,
+    "ecologyPinyinSearch": "1b2y3z(zyh)",
+    "status": "1",
+    "oldId": 26
+  },
+  {
+    "id": 59,
+    "departmentName": "1部2营4组(兰康)",
+    "parentId": 55,
+    "tlevel": 4,
+    "masterId": 206,
+    "ecologyPinyinSearch": "1b2y4z(lk)",
+    "status": "1",
+    "oldId": 42
+  },
+  {
+    "id": 60,
+    "departmentName": "1部2营5组(徐颜男)",
+    "parentId": 55,
+    "tlevel": 4,
+    "masterId": 185,
+    "ecologyPinyinSearch": "1b2y5z(xyn)",
+    "status": "1",
+    "oldId": 62
+  },
+  {
+    "id": 61,
+    "departmentName": "营销1部",
+    "parentId": 22,
+    "tlevel": 3,
+    "masterId": 210,
+    "ecologyPinyinSearch": "yx1b",
+    "status": "1",
+    "oldId": 196
+  },
+  {
+    "id": 62,
+    "departmentName": "2部1营1组(艾聪)",
+    "parentId": 61,
+    "tlevel": 4,
+    "masterId": 212,
+    "ecologyPinyinSearch": "2b1y1z(ac)",
+    "status": "1",
+    "oldId": 2
+  },
+  {
+    "id": 63,
+    "departmentName": "2部3营1组(范伟豪)",
+    "parentId": 388,
+    "tlevel": 4,
+    "masterId": 225,
+    "ecologyPinyinSearch": "2b3y1z(fwh)",
+    "status": "1",
+    "oldId": 17
+  },
+  {
+    "id": 64,
+    "departmentName": "2部4营2组(刘帅宏)",
+    "parentId": 389,
+    "tlevel": 4,
+    "masterId": 241,
+    "ecologyPinyinSearch": "2b4y2z(lsh)",
+    "status": "1",
+    "oldId": 30
+  },
+  {
+    "id": 65,
+    "departmentName": "2部1营4组(莫镕融)",
+    "parentId": 61,
+    "tlevel": 4,
+    "masterId": 248,
+    "ecologyPinyinSearch": "2b1y4z(mrr)",
+    "status": "1",
+    "oldId": 38
+  },
+  {
+    "id": 66,
+    "departmentName": "2部3营2组(龚海伦)",
+    "parentId": 388,
+    "tlevel": 4,
+    "masterId": 263,
+    "ecologyPinyinSearch": "2b3y2z(ghl)",
+    "status": "1",
+    "oldId": 44
+  },
+  {
+    "id": 67,
+    "departmentName": "2部3营3组(魏珍发)",
+    "parentId": 388,
+    "tlevel": 4,
+    "masterId": 229,
+    "ecologyPinyinSearch": "2b3y3z(wzf)",
+    "status": "1",
+    "oldId": 66
+  },
+  {
+    "id": 68,
+    "departmentName": "2部2营1组(胡焰杰)",
+    "parentId": 42,
+    "tlevel": 4,
+    "masterId": 259,
+    "ecologyPinyinSearch": "2b2y1z(hyj)",
+    "status": "1",
+    "oldId": 5
+  },
+  {
+    "id": 69,
+    "departmentName": "2部2营3组(张岩)",
+    "parentId": 42,
+    "tlevel": 4,
+    "masterId": 269,
+    "ecologyPinyinSearch": "2b2y3z(zy)",
+    "status": "1",
+    "oldId": 46
+  },
+  {
+    "id": 70,
+    "departmentName": "3部2营1组(杨力健)",
+    "parentId": 90,
+    "tlevel": 4,
+    "masterId": 294,
+    "ecologyPinyinSearch": "3b2y1z(ylj)",
+    "status": "1",
+    "oldId": 19
+  },
+  {
+    "id": 71,
+    "departmentName": "3部2营2组(卢伟静)",
+    "parentId": 90,
+    "tlevel": 4,
+    "masterId": 296,
+    "ecologyPinyinSearch": "3b2y2z(lwj)",
+    "status": "1",
+    "oldId": 58
+  },
+  {
+    "id": 72,
+    "departmentName": "3部1营4组(张闪星)",
+    "parentId": 44,
+    "tlevel": 4,
+    "masterId": 282,
+    "ecologyPinyinSearch": "3b1y4z(zsx)",
+    "status": "1",
+    "oldId": 60
+  },
+  {
+    "id": 73,
+    "departmentName": "营销1部",
+    "parentId": 34,
+    "tlevel": 3,
+    "masterId": 320,
+    "ecologyPinyinSearch": "yx1b",
+    "status": "1",
+    "oldId": 202
+  },
+  {
+    "id": 74,
+    "departmentName": "4部1营1组(陈俊华)",
+    "parentId": 73,
+    "tlevel": 4,
+    "masterId": 320,
+    "ecologyPinyinSearch": "4b1y1z(cjh)",
+    "status": "1",
+    "oldId": 21
+  },
+  {
+    "id": 75,
+    "departmentName": "4部1营2组(刘盛嘉)",
+    "parentId": 73,
+    "tlevel": 4,
+    "masterId": 322,
+    "ecologyPinyinSearch": "4b1y2z(lsj)",
+    "status": "1",
+    "oldId": 56
+  },
+  {
+    "id": 76,
+    "departmentName": "4部1营3组(邓钦中)",
+    "parentId": 73,
+    "tlevel": 4,
+    "masterId": 323,
+    "ecologyPinyinSearch": "4b1y3z(dqz)",
+    "status": "1",
+    "oldId": 54
+  },
+  {
+    "id": 77,
+    "departmentName": "营销1部",
+    "parentId": 36,
+    "tlevel": 3,
+    "masterId": 344,
+    "ecologyPinyinSearch": "yx1b",
+    "status": "1",
+    "oldId": 204
+  },
+  {
+    "id": 78,
+    "departmentName": "5部1营1组(孙博)",
+    "parentId": 77,
+    "tlevel": 4,
+    "masterId": 344,
+    "ecologyPinyinSearch": "5b1y1z(sb)",
+    "status": "1",
+    "oldId": 48
+  },
+  {
+    "id": 79,
+    "departmentName": "第6事业部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 347,
+    "ecologyPinyinSearch": "d6syb",
+    "status": "1",
+    "oldId": 146
+  },
+  {
+    "id": 80,
+    "departmentName": "营销1部",
+    "parentId": 79,
+    "tlevel": 3,
+    "masterId": 347,
+    "ecologyPinyinSearch": "yx1b",
+    "status": "1",
+    "oldId": 206
+  },
+  {
+    "id": 81,
+    "departmentName": "6部1营1组(葛尧)",
+    "parentId": 80,
+    "tlevel": 4,
+    "masterId": 347,
+    "ecologyPinyinSearch": "6b1y1z(gy)",
+    "status": "1",
+    "oldId": 68
+  },
+  {
+    "id": 82,
+    "departmentName": "审计部",
+    "parentId": 3,
+    "tlevel": 3,
+    "masterId": 4,
+    "ecologyPinyinSearch": "sjb",
+    "status": "1",
+    "oldId": 172
+  },
+  {
+    "id": 85,
+    "departmentName": "金鹰特训营",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 8,
+    "ecologyPinyinSearch": "jytxy",
+    "status": "1",
+    "oldId": 32
+  },
+  {
+    "id": 86,
+    "departmentName": "谷歌项目部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 819,
+    "ecologyPinyinSearch": "ggxmb",
+    "status": "1",
+    "oldId": 100
+  },
+  {
+    "id": 87,
+    "departmentName": "BLN客服部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "blnkfb",
+    "status": "1",
+    "oldId": 239
+  },
+  {
+    "id": 88,
+    "departmentName": "日本业务部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 238,
+    "ecologyPinyinSearch": "rbywb",
+    "status": "1",
+    "oldId": 70
+  },
+  {
+    "id": 101,
+    "departmentName": "2部2营4组(黄树杰)",
+    "parentId": 42,
+    "tlevel": 4,
+    "masterId": 258,
+    "ecologyPinyinSearch": "2b2y4z(hsj)",
+    "status": "1",
+    "oldId": 74
+  },
+  {
+    "id": 90,
+    "departmentName": "营销2部",
+    "parentId": 31,
+    "tlevel": 3,
+    "masterId": 294,
+    "ecologyPinyinSearch": "yx2b",
+    "status": "1",
+    "oldId": 200
+  },
+  {
+    "id": 91,
+    "departmentName": "3部2营3组(吴永安)",
+    "parentId": 90,
+    "tlevel": 4,
+    "masterId": 305,
+    "ecologyPinyinSearch": "3b2y3z(wya)",
+    "status": "1",
+    "oldId": 76
+  },
+  {
+    "id": 1,
+    "departmentName": "总经办",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 3,
+    "ecologyPinyinSearch": "zjb",
+    "status": "1",
+    "oldId": 122
+  },
+  {
+    "id": 3,
+    "departmentName": "企业发展中心",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 4,
+    "ecologyPinyinSearch": "qyfzzx",
+    "status": "1",
+    "oldId": 124
+  },
+  {
+    "id": 5,
+    "departmentName": "招聘部",
+    "parentId": 3,
+    "tlevel": 3,
+    "masterId": 1320,
+    "ecologyPinyinSearch": "zpb",
+    "status": "1",
+    "oldId": 166
+  },
+  {
+    "id": 6,
+    "departmentName": "财务部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 23,
+    "ecologyPinyinSearch": "cwb",
+    "status": "1",
+    "oldId": 9
+  },
+  {
+    "id": 7,
+    "departmentName": "技术研发部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 1531,
+    "ecologyPinyinSearch": "jsyfb",
+    "status": "1",
+    "oldId": 126
+  },
+  {
+    "id": 115,
+    "departmentName": "视频项目组",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 279,
+    "ecologyPinyinSearch": "spxmz",
+    "status": "1",
+    "oldId": 150
+  },
+  {
+    "id": 8,
+    "departmentName": "客服部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 71,
+    "ecologyPinyinSearch": "kfb",
+    "status": "1",
+    "oldId": 10
+  },
+  {
+    "id": 9,
+    "departmentName": "物流部-1",
+    "parentId": 484,
+    "tlevel": 3,
+    "masterId": 777,
+    "ecologyPinyinSearch": "wlb-1",
+    "status": "1",
+    "oldId": 24
+  },
+  {
+    "id": 200,
+    "departmentName": "运营2部",
+    "parentId": 9,
+    "tlevel": 4,
+    "masterId": 832,
+    "ecologyPinyinSearch": "yy2b",
+    "status": "1",
+    "oldId": 277
+  },
+  {
+    "id": 201,
+    "departmentName": "BD组",
+    "parentId": 9,
+    "tlevel": 4,
+    "masterId": 404,
+    "ecologyPinyinSearch": "bdz",
+    "status": "1",
+    "oldId": 182
+  },
+  {
+    "id": 202,
+    "departmentName": "COD部",
+    "parentId": 9,
+    "tlevel": 4,
+    "masterId": 1532,
+    "ecologyPinyinSearch": "codb",
+    "status": "1",
+    "oldId": 214
+  },
+  {
+    "id": 206,
+    "departmentName": "DDN电商运营-一组（何承龙）",
+    "parentId": 300,
+    "tlevel": 3,
+    "masterId": 0,
+    "ecologyPinyinSearch": "ddndsyy-yz（hcl）",
+    "status": "1",
+    "oldId": 102
+  },
+  {
+    "id": 207,
+    "departmentName": "DDN电商运营-二组（赖昊成）",
+    "parentId": 300,
+    "tlevel": 3,
+    "masterId": 0,
+    "ecologyPinyinSearch": "ddndsyy-ez（lhc）",
+    "status": "1",
+    "oldId": 104
+  },
+  {
+    "id": 208,
+    "departmentName": "DDN电商运营-三组（徐艳轩）",
+    "parentId": 300,
+    "tlevel": 3,
+    "masterId": 0,
+    "ecologyPinyinSearch": "ddndsyy-sz（xyx）",
+    "status": "1",
+    "oldId": 106
+  },
+  {
+    "id": 209,
+    "departmentName": "DDN电商运营-四组（方义鹏）",
+    "parentId": 300,
+    "tlevel": 3,
+    "masterId": 0,
+    "ecologyPinyinSearch": "ddndsyy-sz（fyp）",
+    "status": "1",
+    "oldId": 108
+  },
+  {
+    "id": 210,
+    "departmentName": "DDN客服部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "ddnkfb",
+    "status": "1",
+    "oldId": 154
+  },
+  {
+    "id": 211,
+    "departmentName": "DDN美工部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "ddnmgb",
+    "status": "1",
+    "oldId": 156
+  },
+  {
+    "id": 212,
+    "departmentName": "DDN技术部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "ddnjsb",
+    "status": "1",
+    "oldId": 158
+  },
+  {
+    "id": 213,
+    "departmentName": "DDN人事部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "ddnrsb",
+    "status": "1",
+    "oldId": 160
+  },
+  {
+    "id": 214,
+    "departmentName": "DDN财务部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "ddncwb",
+    "status": "1",
+    "oldId": 162
+  },
+  {
+    "id": 215,
+    "departmentName": "DDN采购部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "ddncgb",
+    "status": "1",
+    "oldId": 164
+  },
+  {
+    "id": 216,
+    "departmentName": "BLN电商运营-一组（杨俊宇）",
+    "parentId": 301,
+    "tlevel": 3,
+    "masterId": 0,
+    "ecologyPinyinSearch": "blndsyy-yz（yjy）",
+    "status": "1",
+    "oldId": 112
+  },
+  {
+    "id": 217,
+    "departmentName": "BLN电商运营-二组（李煜）",
+    "parentId": 301,
+    "tlevel": 3,
+    "masterId": 0,
+    "ecologyPinyinSearch": "blndsyy-ez（ly）",
+    "status": "1",
+    "oldId": 114
+  },
+  {
+    "id": 218,
+    "departmentName": "BLN电商运营-三组（）",
+    "parentId": 301,
+    "tlevel": 3,
+    "masterId": 0,
+    "ecologyPinyinSearch": "blndsyy-sz（）",
+    "status": "1",
+    "oldId": 116
+  },
+  {
+    "id": 300,
+    "departmentName": "DDN运营部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "ddnyyb",
+    "status": "1",
+    "oldId": 218
+  },
+  {
+    "id": 301,
+    "departmentName": "BLN运营部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "blnyyb",
+    "status": "1",
+    "oldId": 220
+  },
+  {
+    "id": 302,
+    "departmentName": "BLN美工部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "blnmgb",
+    "status": "1",
+    "oldId": 222
+  },
+  {
+    "id": 303,
+    "departmentName": "BLN采购部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "blncgb",
+    "status": "1",
+    "oldId": 224
+  },
+  {
+    "id": 304,
+    "departmentName": "BLN技术部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "blnjsb",
+    "status": "1",
+    "oldId": 226
+  },
+  {
+    "id": 305,
+    "departmentName": "BLN人事部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "blnrsb",
+    "status": "1",
+    "oldId": 228
+  },
+  {
+    "id": 306,
+    "departmentName": "BLN财务部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "blncwb",
+    "status": "1",
+    "oldId": 230
+  },
+  {
+    "id": 402,
+    "departmentName": "前端研发部",
+    "parentId": 7,
+    "tlevel": 3,
+    "masterId": 30,
+    "ecologyPinyinSearch": "qdyfb",
+    "status": "1",
+    "oldId": 244
+  },
+  {
+    "id": 403,
+    "departmentName": "后端研发部",
+    "parentId": 7,
+    "tlevel": 3,
+    "masterId": 579,
+    "ecologyPinyinSearch": "hdyfb",
+    "status": "1",
+    "oldId": 245
+  },
+  {
+    "id": 404,
+    "departmentName": "综合项目部",
+    "parentId": 7,
+    "tlevel": 3,
+    "masterId": 48,
+    "ecologyPinyinSearch": "zhxmb",
+    "status": "1",
+    "oldId": 246
+  },
+  {
+    "id": 405,
+    "departmentName": "运维部",
+    "parentId": 7,
+    "tlevel": 3,
+    "masterId": 996,
+    "ecologyPinyinSearch": "ywb",
+    "status": "1",
+    "oldId": 247
+  },
+  {
+    "id": 406,
+    "departmentName": "测试部",
+    "parentId": 7,
+    "tlevel": 3,
+    "masterId": 727,
+    "ecologyPinyinSearch": "csb",
+    "status": "1",
+    "oldId": 248
+  },
+  {
+    "id": 407,
+    "departmentName": "BI部",
+    "parentId": 7,
+    "tlevel": 3,
+    "masterId": 30,
+    "ecologyPinyinSearch": "bib",
+    "status": "1",
+    "oldId": 249
+  },
+  {
+    "id": 408,
+    "departmentName": "DDN翻译部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "ddnfyb",
+    "status": "1",
+    "oldId": 240
+  },
+  {
+    "id": 167,
+    "departmentName": "采购1组",
+    "parentId": 10,
+    "tlevel": 3,
+    "masterId": 83,
+    "ecologyPinyinSearch": "cg1z",
+    "status": "1",
+    "oldId": 186
+  },
+  {
+    "id": 168,
+    "departmentName": "采购2组",
+    "parentId": 10,
+    "tlevel": 3,
+    "masterId": 277,
+    "ecologyPinyinSearch": "cg2z",
+    "status": "1",
+    "oldId": 188
+  },
+  {
+    "id": 169,
+    "departmentName": "排重组",
+    "parentId": 3,
+    "tlevel": 3,
+    "masterId": 6,
+    "ecologyPinyinSearch": "pzz",
+    "status": "1",
+    "oldId": 174
+  },
+  {
+    "id": 500,
+    "departmentName": "第6事业部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 964,
+    "ecologyPinyinSearch": "d6syb",
+    "status": "1",
+    "oldId": 146
+  },
+  {
+    "id": 501,
+    "departmentName": "营销1部",
+    "parentId": 500,
+    "tlevel": 3,
+    "masterId": 964,
+    "ecologyPinyinSearch": "yx1b",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 502,
+    "departmentName": "6部1营1组",
+    "parentId": 501,
+    "tlevel": 4,
+    "masterId": 964,
+    "ecologyPinyinSearch": "6b1y1z",
+    "status": "1",
+    "oldId": 68
+  },
+  {
+    "id": 181,
+    "departmentName": "2部1营7组(陈昊全)",
+    "parentId": 61,
+    "tlevel": 4,
+    "masterId": 250,
+    "ecologyPinyinSearch": "2b1y7z(chq)",
+    "status": "1",
+    "oldId": 78
+  },
+  {
+    "id": 182,
+    "departmentName": "2部4营3组(王豫超)",
+    "parentId": 389,
+    "tlevel": 4,
+    "masterId": 242,
+    "ecologyPinyinSearch": "2b4y3z(wyc)",
+    "status": "1",
+    "oldId": 80
+  },
+  {
+    "id": 183,
+    "departmentName": "1部1营7组(庄青英)",
+    "parentId": 40,
+    "tlevel": 4,
+    "masterId": 203,
+    "ecologyPinyinSearch": "1b1y7z(zqy)",
+    "status": "1",
+    "oldId": 82
+  },
+  {
+    "id": 184,
+    "departmentName": "4部1营4组(姚磊)",
+    "parentId": 73,
+    "tlevel": 4,
+    "masterId": 328,
+    "ecologyPinyinSearch": "4b1y4z(yl)",
+    "status": "1",
+    "oldId": 88
+  },
+  {
+    "id": 185,
+    "departmentName": "4部1营5组(罗裕荣)",
+    "parentId": 73,
+    "tlevel": 4,
+    "masterId": 324,
+    "ecologyPinyinSearch": "4b1y5z(lyr)",
+    "status": "1",
+    "oldId": 90
+  },
+  {
+    "id": 186,
+    "departmentName": "3部2营5组(林威)",
+    "parentId": 90,
+    "tlevel": 4,
+    "masterId": 298,
+    "ecologyPinyinSearch": "3b2y5z(lw)",
+    "status": "1",
+    "oldId": 86
+  },
+  {
+    "id": 187,
+    "departmentName": "3部2营4组(张心富)",
+    "parentId": 90,
+    "tlevel": 4,
+    "masterId": 302,
+    "ecologyPinyinSearch": "3b2y4z(zxf)",
+    "status": "1",
+    "oldId": 84
+  },
+  {
+    "id": 188,
+    "departmentName": "2部4营1组(藏述正)",
+    "parentId": 389,
+    "tlevel": 4,
+    "masterId": 238,
+    "ecologyPinyinSearch": "2b4y1z(csz)",
+    "status": "1",
+    "oldId": 94
+  },
+  {
+    "id": 189,
+    "departmentName": "1部1营6组(陈泽政)",
+    "parentId": 40,
+    "tlevel": 4,
+    "masterId": 192,
+    "ecologyPinyinSearch": "1b1y6z(czz)",
+    "status": "1",
+    "oldId": 92
+  },
+  {
+    "id": 510,
+    "departmentName": "2部3营4组(岑健俊)",
+    "parentId": 388,
+    "tlevel": 4,
+    "masterId": 231,
+    "ecologyPinyinSearch": "2b3y4z(cjj)",
+    "status": "1",
+    "oldId": 290
+  },
+  {
+    "id": 511,
+    "departmentName": "2部3营5组(陈仁)",
+    "parentId": 388,
+    "tlevel": 4,
+    "masterId": 237,
+    "ecologyPinyinSearch": "2b3y5z(cr)",
+    "status": "1",
+    "oldId": 291
+  },
+  {
+    "id": 512,
+    "departmentName": "2部3营6组(孙耀均)",
+    "parentId": 388,
+    "tlevel": 4,
+    "masterId": 236,
+    "ecologyPinyinSearch": "2b3y6z(syj)",
+    "status": "1",
+    "oldId": 289
+  },
+  {
+    "id": 513,
+    "departmentName": "2部4营4组(杨浩)",
+    "parentId": 389,
+    "tlevel": 4,
+    "masterId": 244,
+    "ecologyPinyinSearch": "2b4y4z(yh)",
+    "status": "1",
+    "oldId": 292
+  },
+  {
+    "id": 190,
+    "departmentName": "3部1营2组(袁昭明)",
+    "parentId": 44,
+    "tlevel": 4,
+    "masterId": 278,
+    "ecologyPinyinSearch": "3b1y2z(yzm)",
+    "status": "1",
+    "oldId": 96
+  },
+  {
+    "id": 271,
+    "departmentName": "数字化运营部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 1041,
+    "ecologyPinyinSearch": "szhyyb",
+    "status": "1",
+    "oldId": 271
+  },
+  {
+    "id": 514,
+    "departmentName": "1部2营6组(刘敬彬)",
+    "parentId": 55,
+    "tlevel": 4,
+    "masterId": 156,
+    "ecologyPinyinSearch": "1b2y6z(ljb)",
+    "status": "1",
+    "oldId": 285
+  },
+  {
+    "id": 515,
+    "departmentName": "3部1营3组(魏笑)",
+    "parentId": 44,
+    "tlevel": 4,
+    "masterId": 361,
+    "ecologyPinyinSearch": "3b1y3z(wx)",
+    "status": "1",
+    "oldId": 282
+  },
+  {
+    "id": 192,
+    "departmentName": "培训部",
+    "parentId": 3,
+    "tlevel": 3,
+    "masterId": 834,
+    "ecologyPinyinSearch": "pxb",
+    "status": "1",
+    "oldId": 176
+  },
+  {
+    "id": 273,
+    "departmentName": "第N事业部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "dnsyb",
+    "status": "1",
+    "oldId": 130
+  },
+  {
+    "id": 516,
+    "departmentName": "3部2营6组(莫明易)",
+    "parentId": 90,
+    "tlevel": 4,
+    "masterId": 309,
+    "ecologyPinyinSearch": "3b2y6z(mmy)",
+    "status": "1",
+    "oldId": 287
+  },
+  {
+    "id": 274,
+    "departmentName": "营销N部",
+    "parentId": 273,
+    "tlevel": 3,
+    "masterId": 0,
+    "ecologyPinyinSearch": "yxnb",
+    "status": "1",
+    "oldId": 208
+  },
+  {
+    "id": 517,
+    "departmentName": "4部1营6组(吴俊鑫)",
+    "parentId": 73,
+    "tlevel": 4,
+    "masterId": 338,
+    "ecologyPinyinSearch": "4b1y6z(wjx)",
+    "status": "1",
+    "oldId": 286
+  },
+  {
+    "id": 275,
+    "departmentName": "N部N营N组",
+    "parentId": 274,
+    "tlevel": 4,
+    "masterId": 0,
+    "ecologyPinyinSearch": "nbnynz",
+    "status": "1",
+    "oldId": 210
+  },
+  {
+    "id": 276,
+    "departmentName": "第9事业部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 964,
+    "ecologyPinyinSearch": "d9syb",
+    "status": "1",
+    "oldId": 132
+  },
+  {
+    "id": 198,
+    "departmentName": "海外仓",
+    "parentId": 9,
+    "tlevel": 4,
+    "masterId": 441,
+    "ecologyPinyinSearch": "hwc",
+    "status": "1",
+    "oldId": 152
+  },
+  {
+    "id": 199,
+    "departmentName": "运营1部",
+    "parentId": 9,
+    "tlevel": 4,
+    "masterId": 82,
+    "ecologyPinyinSearch": "yy1b",
+    "status": "1",
+    "oldId": 276
+  },
+  {
+    "id": 520,
+    "departmentName": "入库组",
+    "parentId": 11,
+    "tlevel": 4,
+    "masterId": 603,
+    "ecologyPinyinSearch": "rkz",
+    "status": "1",
+    "oldId": 279
+  },
+  {
+    "id": 521,
+    "departmentName": "出库组",
+    "parentId": 11,
+    "tlevel": 4,
+    "masterId": 101,
+    "ecologyPinyinSearch": "ckz",
+    "status": "1",
+    "oldId": 280
+  },
+  {
+    "id": 522,
+    "departmentName": "库存组",
+    "parentId": 11,
+    "tlevel": 4,
+    "masterId": 603,
+    "ecologyPinyinSearch": "kcz",
+    "status": "1",
+    "oldId": 281
+  },
+  {
+    "id": 523,
+    "departmentName": "BLN电商运营-二组",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "blndsyy-ez",
+    "status": "1",
+    "oldId": 114
+  },
+  {
+    "id": 524,
+    "departmentName": "AMSD组",
+    "parentId": 271,
+    "tlevel": 3,
+    "masterId": 1041,
+    "ecologyPinyinSearch": "amsdz",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 525,
+    "departmentName": "网盟经理",
+    "parentId": 497,
+    "tlevel": 3,
+    "masterId": 0,
+    "ecologyPinyinSearch": "wmjl",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 526,
+    "departmentName": "BLN-人事部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "bln-rsb",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 529,
+    "departmentName": "HN项目一部",
+    "parentId": 497,
+    "tlevel": 3,
+    "masterId": 347,
+    "ecologyPinyinSearch": "hnxmyb",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 530,
+    "departmentName": "HN项目二部",
+    "parentId": 497,
+    "tlevel": 3,
+    "masterId": 347,
+    "ecologyPinyinSearch": "hnxmeb",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 531,
+    "departmentName": "运营3部",
+    "parentId": 9,
+    "tlevel": 4,
+    "masterId": 1462,
+    "ecologyPinyinSearch": "yy3b",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 534,
+    "departmentName": "第M事业部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 0,
+    "ecologyPinyinSearch": "dmsyb",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 535,
+    "departmentName": "营销M1部",
+    "parentId": 534,
+    "tlevel": 3,
+    "masterId": 0,
+    "ecologyPinyinSearch": "yxm1b",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 536,
+    "departmentName": "营销M2部",
+    "parentId": 534,
+    "tlevel": 3,
+    "masterId": 0,
+    "ecologyPinyinSearch": "yxm2b",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 456,
+    "departmentName": "渠道管理部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 1349,
+    "ecologyPinyinSearch": "qdglb",
+    "status": "1",
+    "oldId": 241
+  },
+  {
+    "id": 537,
+    "departmentName": "M部M1营1组",
+    "parentId": 535,
+    "tlevel": 4,
+    "masterId": 0,
+    "ecologyPinyinSearch": "mbm1y1z",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 457,
+    "departmentName": "数据研发组",
+    "parentId": 407,
+    "tlevel": 4,
+    "masterId": 0,
+    "ecologyPinyinSearch": "sjyfz",
+    "status": "1",
+    "oldId": 269
+  },
+  {
+    "id": 538,
+    "departmentName": "M部M1营2组",
+    "parentId": 535,
+    "tlevel": 4,
+    "masterId": 0,
+    "ecologyPinyinSearch": "mbm1y2z",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 539,
+    "departmentName": "M部M2营1组",
+    "parentId": 536,
+    "tlevel": 4,
+    "masterId": 0,
+    "ecologyPinyinSearch": "mbm2y1z",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 540,
+    "departmentName": "TPM组",
+    "parentId": 404,
+    "tlevel": 4,
+    "masterId": 48,
+    "ecologyPinyinSearch": "tpmz",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 460,
+    "departmentName": "后端测试组",
+    "parentId": 406,
+    "tlevel": 4,
+    "masterId": 727,
+    "ecologyPinyinSearch": "hdcsz",
+    "status": "1",
+    "oldId": 266
+  },
+  {
+    "id": 541,
+    "departmentName": "安全组",
+    "parentId": 405,
+    "tlevel": 4,
+    "masterId": 996,
+    "ecologyPinyinSearch": "aqz",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 461,
+    "departmentName": "前端测试组",
+    "parentId": 406,
+    "tlevel": 4,
+    "masterId": 727,
+    "ecologyPinyinSearch": "qdcsz",
+    "status": "1",
+    "oldId": 267
+  },
+  {
+    "id": 542,
+    "departmentName": "移动端项目",
+    "parentId": 7,
+    "tlevel": 3,
+    "masterId": 1739,
+    "ecologyPinyinSearch": "yddxm",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 462,
+    "departmentName": "技术支持组",
+    "parentId": 406,
+    "tlevel": 4,
+    "masterId": 727,
+    "ecologyPinyinSearch": "jszcz",
+    "status": "1",
+    "oldId": 268
+  },
+  {
+    "id": 543,
+    "departmentName": "物流部-3（赵林）",
+    "parentId": 484,
+    "tlevel": 3,
+    "masterId": 0,
+    "ecologyPinyinSearch": "wlb-3（zl）",
+    "status": "1",
+    "oldId": 24
+  },
+  {
+    "id": 463,
+    "departmentName": "IT组",
+    "parentId": 405,
+    "tlevel": 4,
+    "masterId": 996,
+    "ecologyPinyinSearch": "itz",
+    "status": "1",
+    "oldId": 264
+  },
+  {
+    "id": 544,
+    "departmentName": "深圳呼叫中心",
+    "parentId": 8,
+    "tlevel": 3,
+    "masterId": 71,
+    "ecologyPinyinSearch": "szhjzx",
+    "status": "1",
+    "oldId": 0
+  },
+  {
+    "id": 464,
+    "departmentName": "运维组",
+    "parentId": 405,
+    "tlevel": 4,
+    "masterId": 996,
+    "ecologyPinyinSearch": "ywz",
+    "status": "1",
+    "oldId": 265
+  },
+  {
+    "id": 465,
+    "departmentName": "老ERP项目组",
+    "parentId": 404,
+    "tlevel": 4,
+    "masterId": 48,
+    "ecologyPinyinSearch": "lerpxmz",
+    "status": "1",
+    "oldId": 262
+  },
+  {
+    "id": 466,
+    "departmentName": "外购项目组",
+    "parentId": 404,
+    "tlevel": 4,
+    "masterId": 48,
+    "ecologyPinyinSearch": "wgxmz",
+    "status": "1",
+    "oldId": 263
+  },
+  {
+    "id": 467,
+    "departmentName": "采购项目组",
+    "parentId": 403,
+    "tlevel": 4,
+    "masterId": 579,
+    "ecologyPinyinSearch": "cgxmz",
+    "status": "1",
+    "oldId": 257
+  },
+  {
+    "id": 468,
+    "departmentName": "产品中心",
+    "parentId": 403,
+    "tlevel": 4,
+    "masterId": 579,
+    "ecologyPinyinSearch": "cpzx",
+    "status": "1",
+    "oldId": 258
+  },
+  {
+    "id": 388,
+    "departmentName": "营销3部",
+    "parentId": 22,
+    "tlevel": 3,
+    "masterId": 225,
+    "ecologyPinyinSearch": "yx3b",
+    "status": "1",
+    "oldId": 234
+  },
+  {
+    "id": 469,
+    "departmentName": "订单项目组",
+    "parentId": 403,
+    "tlevel": 4,
+    "masterId": 579,
+    "ecologyPinyinSearch": "ddxmz",
+    "status": "1",
+    "oldId": 259
+  },
+  {
+    "id": 389,
+    "departmentName": "营销4部",
+    "parentId": 22,
+    "tlevel": 3,
+    "masterId": 238,
+    "ecologyPinyinSearch": "yx4b",
+    "status": "1",
+    "oldId": 236
+  },
+  {
+    "id": 470,
+    "departmentName": "物流项目组",
+    "parentId": 403,
+    "tlevel": 4,
+    "masterId": 579,
+    "ecologyPinyinSearch": "wlxmz",
+    "status": "1",
+    "oldId": 260
+  },
+  {
+    "id": 390,
+    "departmentName": "第10事业部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 1195,
+    "ecologyPinyinSearch": "d10syb",
+    "status": "1",
+    "oldId": 238
+  },
+  {
+    "id": 471,
+    "departmentName": "CRM项目组",
+    "parentId": 403,
+    "tlevel": 4,
+    "masterId": 579,
+    "ecologyPinyinSearch": "crmxmz",
+    "status": "1",
+    "oldId": 261
+  },
+  {
+    "id": 472,
+    "departmentName": "PHP研发组",
+    "parentId": 402,
+    "tlevel": 4,
+    "masterId": 30,
+    "ecologyPinyinSearch": "phpyfz",
+    "status": "1",
+    "oldId": 254
+  },
+  {
+    "id": 473,
+    "departmentName": "综合站组",
+    "parentId": 402,
+    "tlevel": 4,
+    "masterId": 30,
+    "ecologyPinyinSearch": "zhzz",
+    "status": "1",
+    "oldId": 255
+  },
+  {
+    "id": 393,
+    "departmentName": "架构部",
+    "parentId": 7,
+    "tlevel": 3,
+    "masterId": 579,
+    "ecologyPinyinSearch": "jgb",
+    "status": "1",
+    "oldId": 242
+  },
+  {
+    "id": 474,
+    "departmentName": "页面研发组",
+    "parentId": 402,
+    "tlevel": 4,
+    "masterId": 30,
+    "ecologyPinyinSearch": "ymyfz",
+    "status": "1",
+    "oldId": 256
+  },
+  {
+    "id": 394,
+    "departmentName": "产品部",
+    "parentId": 7,
+    "tlevel": 3,
+    "masterId": 759,
+    "ecologyPinyinSearch": "cpb",
+    "status": "1",
+    "oldId": 243
+  },
+  {
+    "id": 475,
+    "departmentName": "前端产品",
+    "parentId": 394,
+    "tlevel": 4,
+    "masterId": 759,
+    "ecologyPinyinSearch": "qdcp",
+    "status": "1",
+    "oldId": 251
+  },
+  {
+    "id": 476,
+    "departmentName": "后端产品",
+    "parentId": 394,
+    "tlevel": 4,
+    "masterId": 759,
+    "ecologyPinyinSearch": "hdcp",
+    "status": "1",
+    "oldId": 252
+  },
+  {
+    "id": 477,
+    "departmentName": "UI/UE",
+    "parentId": 394,
+    "tlevel": 4,
+    "masterId": 759,
+    "ecologyPinyinSearch": "ui/ue",
+    "status": "1",
+    "oldId": 253
+  },
+  {
+    "id": 478,
+    "departmentName": "质量管理部",
+    "parentId": 9,
+    "tlevel": 4,
+    "masterId": 1228,
+    "ecologyPinyinSearch": "zlglb",
+    "status": "1",
+    "oldId": 250
+  },
+  {
+    "id": 480,
+    "departmentName": "仓储项目组",
+    "parentId": 403,
+    "tlevel": 4,
+    "masterId": 579,
+    "ecologyPinyinSearch": "ccxmz",
+    "status": "1",
+    "oldId": 293
+  },
+  {
+    "id": 481,
+    "departmentName": "前端项目组",
+    "parentId": 403,
+    "tlevel": 4,
+    "masterId": 579,
+    "ecologyPinyinSearch": "qdxmz",
+    "status": "1",
+    "oldId": 294
+  },
+  {
+    "id": 482,
+    "departmentName": "3部2营新项目组",
+    "parentId": 90,
+    "tlevel": 4,
+    "masterId": 294,
+    "ecologyPinyinSearch": "3b2yxxmz",
+    "status": "1",
+    "oldId": 288
+  },
+  {
+    "id": 484,
+    "departmentName": "物流体系",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 3,
+    "ecologyPinyinSearch": "wltx",
+    "status": "1",
+    "oldId": 272
+  },
+  {
+    "id": 485,
+    "departmentName": "物流部-2",
+    "parentId": 484,
+    "tlevel": 3,
+    "masterId": 1378,
+    "ecologyPinyinSearch": "wlb-2",
+    "status": "1",
+    "oldId": 24
+  },
+  {
+    "id": 486,
+    "departmentName": "物流部-3",
+    "parentId": 484,
+    "tlevel": 3,
+    "masterId": 1544,
+    "ecologyPinyinSearch": "wlb-3",
+    "status": "1",
+    "oldId": 24
+  },
+  {
+    "id": 488,
+    "departmentName": "欧美独立站项目部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 1550,
+    "ecologyPinyinSearch": "omdlzxmb",
+    "status": "1",
+    "oldId": 273
+  },
+  {
+    "id": 494,
+    "departmentName": "南宁呼叫中心",
+    "parentId": 8,
+    "tlevel": 3,
+    "masterId": 1433,
+    "ecologyPinyinSearch": "nnhjzx",
+    "status": "1",
+    "oldId": 275
+  },
+  {
+    "id": 496,
+    "departmentName": "供应商管理部",
+    "parentId": 9,
+    "tlevel": 4,
+    "masterId": 404,
+    "ecologyPinyinSearch": "gysglb",
+    "status": "1",
+    "oldId": 278
+  },
+  {
+    "id": 497,
+    "departmentName": "HN项目部",
+    "parentId": 0,
+    "tlevel": 2,
+    "masterId": 347,
+    "ecologyPinyinSearch": "hnxmb",
+    "status": "1",
+    "oldId": 274
+  },
+  {
+    "id": 498,
+    "departmentName": "设计一部",
+    "parentId": 48,
+    "tlevel": 3,
+    "masterId": 279,
+    "ecologyPinyinSearch": "sjyb",
+    "status": "1",
+    "oldId": 283
+  },
+  {
+    "id": 499,
+    "departmentName": "设计二部",
+    "parentId": 48,
+    "tlevel": 3,
+    "masterId": 221,
+    "ecologyPinyinSearch": "sjeb",
+    "status": "1",
+    "oldId": 284
+  }
+]

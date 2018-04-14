@@ -1,0 +1,5 @@
+// import './instance'
+// import './lifecycle'
+// import './dataBinding'
+// import './components/define'
+import './render'

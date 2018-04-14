@@ -1,0 +1,9 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf #设置换行符，值为lf、cr和crlf
+indent_size = 2 #用一个整数定义的列数来设置缩进的宽度，如果indent_style为tab，则此属性默认为tab_width
+indent_style = space #设置缩进风格(tab是硬缩进，space为软缩进)
+insert_final_newline = true #设为true表示使文件以一个空白行结尾
+trim_trailing_whitespace = true #设为true表示会去除换行行首的任意空白字符。
